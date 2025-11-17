@@ -1,4 +1,5 @@
 streamlit>=1.24
+streamlit-autorefresh
 pandas
 plotly
 tinytuya
