@@ -26,43 +26,43 @@ The project is ideal for Green Computing, IoT analytics, smart home systems, and
 🚀 Features
 🔴 Real-Time Monitoring
 
-Voltage (V)
+- Voltage (V)
 
-Current (A)
+- Current (A)
 
-Power (W)
+- Power (W)
 
-Energy consumption (kWh)
+- Energy consumption (kWh)
 
 📊 Charts
 
-Power over time
+- Power over time
 
-Voltage trend
+- Voltage trend
 
-Current trend
+- Current trend
 
-Energy + Cost + Power combined graph
+- Energy + Cost + Power combined graph
 
 🧠 Advanced Metrics
 
-Apparent Power (VA)
+- Apparent Power (VA)
 
-Power Factor
+- Power Factor
 
-Estimated cost per kWh
+- Estimated cost per kWh
 
 🛠️ Tools
 
-Streamlit frontend
+- Streamlit frontend
 
-Plotly for graphs
+- Plotly for graphs
 
-Pandas for processing
+- Pandas for processing
 
-Auto-refresh without infinite loops
+- Auto-refresh without infinite loops
 
-CSV-based data storage
+- CSV-based data storage
 
 📂 Project Structure
 📁 IoT-Energy-Dashboard/
@@ -161,44 +161,40 @@ This keeps the dashboard updated in the cloud safely.
 
 The dashboard provides:
 
-Full dataset (CSV)
+- Full dataset (CSV)
 
-Summary report (TXT)
+- Summary report (TXT)
 
-Total energy
+- Total energy
 
-Cost estimation
+- Cost estimation
 
-Peak voltage/current/power
+- Peak voltage/current/power
 
 🛡️ Safety Notes
 
-Ensure smart plug is properly insulated
+- Ensure smart plug is properly insulated
 
-Use rated extension cables
+- Use rated extension cables
 
-Do not exceed load current of the plug
+- Do not exceed load current of the plug
 
-Avoid open wiring
+- Avoid open wiring
 
 🧩 Future Improvements
 
-MQTT live streaming instead of CSV
+- MQTT live streaming instead of CSV
 
-Multi-device analytics
+- Multi-device analytics
 
-Mobile PWA version
+- Mobile PWA version
 
-AI-based anomaly detection
+- AI-based anomaly detection
 
-Appliance auto-control (ON/OFF automation)
+- Appliance auto-control (ON/OFF automation)
 
 
 
 👤 Author
 Afia Ayub Samirah
-Email: afai.a.samirah@gmail.com
-
-Your Name
-CSE407 – Green Computing
-East West University
+Email: afia.a.samirah@gmail.com
