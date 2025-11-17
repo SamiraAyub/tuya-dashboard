@@ -1,0 +1,5 @@
+__pycache__/
+.env
+*.pyc
+energy_log.csv
+tuya_data_logger.py
